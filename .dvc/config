@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_remote
+['remote "dvc_remote"']
+    url = C:\Users\mahdia\OneDrive - CLASQUIN SA\Desktop\DVC\dvc_backend_data
